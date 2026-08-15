@@ -1,4 +1,3 @@
-
 ## About Me
 
 Hi, I'm Rutik Pawar, a Java Full Stack Developer with a strong interest in software development. I have a good foundation in Java, SQL, HTML, CSS, and JavaScript, and I am currently learning Spring Boot, REST APIs, and Microservices.
@@ -7,40 +6,23 @@ I enjoy solving programming problems and building practical applications that he
 
 I am always open to learning new technologies, working with others, and taking on new challenges that help me grow as a developer.
 
+## 🛠️ Tech Stack
 
-## Tech Stack
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- Java
-- SQL / MySQL
-- HTML
-- CSS
-- JavaScript
-- Spring Boot
-- REST APIs
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-## Tools
-
-- Git
-- GitHub
-- Eclipse
-- VS Code
-- Postman
-- MySQL Workbench
-
-
-## Currently Learning
-
-- Spring Boot
-- REST APIs
-- Microservices
-- DSA with Java
-- Git and GitHub
-
-
-## Goals
-
-- Build real-world projects
-- Improve problem-solving skills
-- Strengthen Java Full Stack development skills
-- Learn and work with modern backend technologies
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
