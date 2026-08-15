@@ -1,3 +1,12 @@
+# Rutik Pawar
+
+### Java Full Stack Developer
+
+Passionate about building scalable and user-friendly web applications using Java and modern web technologies. Currently focusing on Java Full Stack Development, Data Structures & Algorithms, and backend technologies such as Spring Boot, REST APIs, and Hibernate.
+
+📧 Email: pawarrutik83@gmail.com  
+🔗 LinkedIn: [Rutik Pawar](https://www.linkedin.com/in/rutik-pawar-3b8606297/)
+
 ## About Me
 
 Hi, I'm Rutik Pawar, a Java Full Stack Developer with a strong interest in software development. I have a good foundation in Java, SQL, HTML, CSS, and JavaScript, and I am currently learning Spring Boot, REST APIs, and Microservices.
